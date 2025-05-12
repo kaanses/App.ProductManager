@@ -10,26 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b57ac0d-e665-4fd8-a8f6-7020370ecaa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/App.Product.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Helpers/CacheHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Helpers/ProductStorageHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Helpers/ValidationHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Interfaces/IProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Mappings/MappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Models/DTOs/ProductDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Models/DTOs/ProductInputDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Models/Entity/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/ProductManager.Api.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Services/ProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/Validator/ProductInputValidator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.Api/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductManager.sln" afterDir="false" />
-    </list>
+    <list default="true" id="3b57ac0d-e665-4fd8-a8f6-7020370ecaa3" name="Changes" comment="ProductManagerCreated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kaanses/App.ProductManager.git",
+    "accountId": "3e3d4739-5501-48bb-a527-aad0d79b17af"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ProductManager/Interfaces/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProductManager/Models/DTOs/ProductDTO.cs" root0="FORCE_HIGHLIGHTING" />
@@ -48,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/ProductManager/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProductManager/Services/ProductService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -180,15 +168,27 @@
       <workItem from="1746660881224" duration="2580000" />
       <workItem from="1746703509623" duration="10334000" />
       <workItem from="1746905862435" duration="3000" />
-      <workItem from="1747007604605" duration="22493000" />
+      <workItem from="1747007604605" duration="22814000" />
     </task>
+    <task id="LOCAL-00001" summary="ProductManagerCreated">
+      <option name="closed" value="true" />
+      <created>1747053906118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747053906118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="ProductManagerCreated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ProductManagerCreated" />
   </component>
 </project>
